@@ -21,6 +21,7 @@ h3{
     font-size: 1.375em;
 }
 
+
 .nav-link:hover{
     background-color: #525A59;
     color: white;
@@ -97,3 +98,7 @@ a:hover{
     border-radius: 5px;
 }
 
+video{
+    width: 100%;
+    height: auto;
+}
